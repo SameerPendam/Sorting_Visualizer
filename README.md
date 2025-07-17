@@ -47,48 +47,28 @@ sorting-visualizer/
     ├── merge.js            # Merge Sort logic
     └── sorting.js          # Main controller and utility functions
 
-🧪 Live Demo
-Click to try it out now 👉 Live Demo
+🛠️ Technologies Used
+✅ HTML5 – Semantic and structured markup
 
-Or run it locally with Live Server
+✅ CSS3 – Custom styling and animations
 
-🚀 Getting Started
-Clone the Repository
+✅ Vanilla JavaScript (ES6+) – Fully modular, no libraries
+
+💡 How to Use
+🔧 Run Locally
+Clone the repository:
+
 bash
 Copy code
 git clone https://github.com/yourusername/sorting-visualizer.git
 cd sorting-visualizer
-Open in Browser
-You can open index.html directly in your browser, or
+Open index.html in any modern browser.
 
-Use the Live Server extension in VS Code for a better experience
+💡 Tip: Use Live Server in VS Code for instant reloads.
 
-🎨 UI Preview
-📸 Include screenshots or a GIF here
-Tip: Use LiceCap or ScreenToGif to capture animations
+📸 Screenshots
+Include visuals or gifs here to show the interface
+You can embed like this:
+<img width="798" height="873" alt="image" src="https://github.com/user-attachments/assets/b6285b24-2e4b-49d7-b614-afcc25fce1c2" />
 
-📦 Technologies Used
-HTML5
 
-CSS3 (custom + Flexbox)
-
-JavaScript (ES6+) - Modular structure
-
-No external libraries or frameworks
-
-🧠 Educational Value
-This tool was built to help learners and educators visualize and understand sorting algorithms through:
-
-Color-coded comparisons
-
-Real-time performance tracking
-
-Clean separation of algorithm logic
-
-📄 License
-This project is open-source under the MIT License.
-
-🙏 Acknowledgments
-VisuAlgo for inspiration
-
-Free learning communities like GeeksforGeeks and Apna College
